@@ -31,15 +31,19 @@ A modern, responsive weather application built with **React** and the **OpenWeat
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
-2.**Install dependencies**
-  npm install
-  
+2. **Install dependencies**
+   ```bash
+   npm install
 3. **Add your OpenWeather API key**
+   
    Open App.js
   Replace the API_KEY value with your own from OpenWeather
+
 4. **Run the app locally**
-   npm start
+   ```bash
+      npm start
 5. **Build for production**
+   ```bash
    npm run build
 
 ***🌍 Deployment***
@@ -54,3 +58,5 @@ Axios — For API requests
 OpenWeather API — Weather data
 CSS3 — Styling with dynamic variables
 JavaScript (ES6+) — Core logic
+
+
